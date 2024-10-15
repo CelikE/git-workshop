@@ -24,6 +24,10 @@
 8. [Git Worktree](./git_worktree.md)
    - Learn about `git worktree`, which allows you to work on multiple branches simultaneously without cloning the repository. This guide helps you understand how to efficiently work on different tasks or features in parallel.
 
+9. [Git Aliases Documentation](./git_aliases_documentation.md)
+
+- Custom Git Aliases
+
 ## Contributing
 
 Contributions are welcome! If you find any issue in the content or would like to add more advanced guides, feel free to fork the repository and open a pull request.
